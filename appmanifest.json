@@ -2,7 +2,7 @@
 	"name": "Login Screen",
 	"short_name": "Login Screen",
 	"start_url": "index.html",
-	"display": "fullscreen",
+	"display": "standalone",
 	"orientation": "portrait",
 	"icons": [{
 		"src": "icon-16.png",
