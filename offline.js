@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1479051888,
+	"version": 1479078595,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -8,6 +8,7 @@
 		"images/player2-sheet0.png",
 		"images/p1-sheet0.png",
 		"images/soelogo-sheet0.png",
+		"images/newbutton-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
