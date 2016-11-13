@@ -1,11 +1,12 @@
 ﻿CACHE MANIFEST
-#1478977190
+#1479051506
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 images/player1-sheet0.png
 images/player2-sheet0.png
 images/p1-sheet0.png
+images/soelogo-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
@@ -49,5 +50,6 @@ c2mp-net.js
 c2mp-peer.js
 c2mp.js
 waker.js
+Photon-Javascript_SDK.min.js
 NETWORK:
 *
